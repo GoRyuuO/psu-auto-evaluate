@@ -100,7 +100,9 @@ def start_evalute(state:bool):
     """
     if state == False: return
     for i in range(0,8):
-        driver.find_element(By.NAME, f'ra_scale{i}').click()
+        radio = driver.find_element(By.NAME, f'ra_scale{i}')
+        driver.execute_script("arguments[0].setAttribute('value',arguments[1])",radio, DEFAULT_POINT)
+        radio.click()
     driver.find_element(By.ID, 'frmEva').submit()
     
     alrt = Alert(driver)
