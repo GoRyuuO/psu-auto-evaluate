@@ -1,3 +1,5 @@
+[อ่านฉบับภาษาไทย](อ่านก่อน.md)
+
 ## Warning ⚠️
 This program will provide an assessment form for "every teachers" included who have not yet been assessed.
 If you have any teachers who "Want to give extra points", please visit the website.
