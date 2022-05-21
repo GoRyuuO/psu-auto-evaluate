@@ -1,7 +1,4 @@
-# INSTALL
-You must be install `Microsoft Edge` to run this program correctly
-
-## Warning:
+## Warning ⚠️
 This program will provide an assessment form for "every teachers" included who have not yet been assessed.
 If you have any teachers who "Want to give extra points", please visit the website.
 Do an evaluation for him/her before run this program.
@@ -9,23 +6,20 @@ Do an evaluation for him/her before run this program.
 ***Please be aware that teacher evaluation is the responsibility of all students. 
 Developer highly recommend to doing the self-assessment.*
 
-Settings can be modified at this file: `eva-config.json`
-please confirm before run program
+## Installation ☕
+This program requires `Microsoft Edge`.
 
-```
-```
+## Settings 🪄
+Settings can be edited in this file: `data/eva-config.json`.
 
-# การติดตั้ง
-โปรแกรมนี้จำเป็นต้องติดตั้ง `Microsoft Edge` สำหรับการติดตั้ง
+## Contact 💬
+If you find a bug or want to suggest ideas for further development can be contacted via [Facebook](https://fb.me/goryuuo)
 
-## เตือนไว้ก่อน!
-โปรแกรมนี้จะทำแบบประเมินครู/อาจารย์ "ทุกท่าน" ที่ยังไม่ทำการประเมิน
-หากคุณมีอาจารย์ท่านใดที่ "ต้องการให้คะแนนพิเศษ" กรุณาเข้าเว็บไซต์
-ทำแบบประเมินให้ท่านก่อนใช้งานโปรแกรมนี้
+or you can open an issues on [GitHub](https://github.com/GoRyuuO/psu-auto-evaluate/issues)
 
-***โปรดตระหนักว่าการประเมินอาจารย์เป็นความรับผิดชอบของนักศึกษาทุกท่าน
-ผู้เขียนโปรแกรมนี้ขอแนะนำเป็นอย่างยิ่งให้ทำแบบประเมินด้วยตัวเอง*
+## Support 😣
+This program is `free to use`. (Must have a bit of skill because it's not Optimized) If you think this program is useful and want to donate to encourage and create new programs in the future, you can donate via the channels below. `Thank you`🙏
 
-การตั้งค่าสามารถแก้ไขได้ที่ไฟล์นี้: `eva-config.json` โดยให้ทำการตั้งค่าก่อนการเปิดโปรแกรม
-```
-```
+Promtpay - [063 343 6420](data/donate.jpg)
+
+**You can click to open the QRCode to open the image
