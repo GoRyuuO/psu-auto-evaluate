@@ -1,7 +1,0 @@
-{
-    "edge-webdriver":"data/msedgedriver.exe",
-    "evaluate-site":"https://tes.psu.ac.th",
-    "headless-mode":1,
-    "default-score":3,
-    "language":"EN"
-}
