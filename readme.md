@@ -9,7 +9,9 @@ Do an evaluation for him/her before run this program.
 Developer highly recommend to doing the self-assessment.*
 
 ## Installation ☕
-This program requires `Microsoft Edge`.
+1. This program requires `Microsoft Edge`
+2. Download: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+3. Save `msedgedriver.exe` in `data` folder
 
 ## Settings 🪄
 Settings can be edited in this file: `data/eva-config.json`.
